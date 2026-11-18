@@ -1,4 +1,4 @@
-# skin-model-reality-check
+# Skin Cancer ML Model
 
 Is a skin cancer classifier as good as its score says?
 
