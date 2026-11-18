@@ -1,6 +1,6 @@
-# loupe
+# skin-model-reality-check
 
-Is a skin cancer classifier as good as its score says? A loupe is the small magnifier you use to look at something up close, which is what this project does to one model.
+Is a skin cancer classifier as good as its score says?
 
 I'm a third-year CS student and I wanted a project on medical imaging that wasn't "I trained a CNN and got 99%". Lots of people have done that. So I took the standard model on a public skin lesion dataset and spent the project trying to find out how much of its score I could trust.
 
